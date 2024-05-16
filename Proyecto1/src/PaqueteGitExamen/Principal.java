@@ -1,4 +1,4 @@
-package paquete1;
+package PaqueteGitExamen;
 
 public class Principal {
 
