@@ -5,6 +5,7 @@ public class Rama1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Mensaje de Rama1");
+		System.out.println("Mensaje de Rama1 2");
 
 }
 }
